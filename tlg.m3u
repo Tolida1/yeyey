@@ -1,0 +1,23 @@
+
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/trt-1.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",TRT 1 | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=trt-1-canli&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/kanal-d.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Kanal D | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=kanal-d&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/kanal-7.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Kanal 7 | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=kanal-7-canli-kesintisiz&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/star-tv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Star Tv | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=star-tv-canli-kesintisiz-izle&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/show-tv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Show Tv | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=show-tv-canli-hd&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/tv8.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Tv8 | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=tv-8&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/atv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",ATV | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=atv-canli-hd-yayin-1&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/beyaz-tv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Beyaz Tv | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=beyaz-tv&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/flash-tv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Flash Tv | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=flash-tv&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/a2-tv.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",A2 Tv | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=a2-tv-1&stream=1&type=m3u8
+#EXTINF:-1 tvg-logo="https://www.yilmaztv.ru/logo/teve2.jpg" group-title="01 (ULUSAL HD/SD Dahili Decorder ayar) | YILMAZTV",Teve2 | ULUSAL
+https://www.yilmaztv.ru/becerozx/oz.php?channel=teve2&stream=1&type=m3u8
